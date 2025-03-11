@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Kayron Dave A. Balbaera. I am currently studying at the University of Makati under Bachelor of Science in Information Technology.</h2>
+<h3 align="left">Hi 👋! My name is Kayron Dave A. Balbaera. I am currently studying at the University of Makati under Bachelor of Science in Information Technology.</h3>
 
 
 ## 🌐 Socials:
