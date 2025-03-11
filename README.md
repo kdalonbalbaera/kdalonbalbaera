@@ -1,5 +1,6 @@
 <div align="center">
 <h3 align="center">Hi 👋! My name is</h3><img src="name.png" width="500" />
+  <h3 align="center">I am currently studying at the University of Makati</h3>
 </div>
 
 ## 🌐 Socials:
