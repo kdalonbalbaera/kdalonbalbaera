@@ -1,6 +1,6 @@
-<h3 align="left">Hi 👋! My name is Kayron Dave A. Balbaera. I am currently studying at the University of Makati under Bachelor of Science in Information Technology.</h3>
-
+<h3 align="left">Hi 👋! My name is</h3>
 ![Name](./name.png)
+<h3 align="left">I am currently studying at the</h3>
 
 
 ## 🌐 Socials:
