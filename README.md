@@ -1,7 +1,6 @@
-<h3 align="left">Hi 👋! My name is</h3>
-![Name](./name.png)
-<h3 align="left">I am currently studying at the</h3>
-
+<div align="center">
+<h3 align="center">Hi 👋! My name is</h3><img src="name.png" width="500" />
+</div>
 
 ## 🌐 Socials:
 <div align="center">
