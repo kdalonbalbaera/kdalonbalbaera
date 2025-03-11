@@ -1,14 +1,3 @@
-  <style>
-    body {
-      font-family: 'Metropolis', sans-serif;
-      margin: 0;
-      padding: 0;
-    }
-    h3, h1, h2, h4 {
-      font-family: 'Metropolis', sans-serif;
-    }
-  </style>
-
 <h3 align="left">Hi 👋! My name is Kayron Dave A. Balbaera. I am currently studying at the University of Makati under Bachelor of Science in Information Technology.</h3>
 
 
